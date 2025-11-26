@@ -13,7 +13,7 @@ A package to read linear optimization problems in MPS format and quadratic optim
 
 If you use QPSReader.jl in your work, please cite using the format given in [CITATION.bib](https://github.com/JuliaSmoothOptimizers/QPSReader.jl/blob/main/CITATION.bib).
 
-The problems represented by the QCP format have the form
+The problems represented by the `.QPS`/`.mps` format have the form
 
 <p align="center">
 optimize &nbsp; c₀ + cᵀ x + ½ xᵀ Q₀ x
